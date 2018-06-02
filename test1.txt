@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAAD-C874
+
+ Directory of C:\Users\sai lucky\Desktop\MyProject
+
+06/02/2018  11:07 AM    <DIR>          .
+06/02/2018  11:07 AM    <DIR>          ..
+06/02/2018  11:07 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  31,480,844,288 bytes free
